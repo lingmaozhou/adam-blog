@@ -1,10 +1,10 @@
-title: My personal blog - Ling Zhou
+title: Ling Zhou
 email: lingzhou14@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Ling Zhou - Blog - Resume.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://lingmaozhou.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Ling Zhou
