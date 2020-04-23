@@ -7,15 +7,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Ling Zhou # add your name
-author-pic: adam-face.jpg
+author: Ling Zhou
+author-pic: ling_headshot.jpg
 about-author: My name is Ling! I'll write more here later...
 
 # Contact links
-email: # Add your Email address
-linkedin: # Add your Linkedin handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
+email: lingzhou@gmail.com
+linkedin: lingzhou14
+facebook: ling.zhou14
+instagram: ling_zhou
 
 # Tracker
 analytics: # Google Analytics
