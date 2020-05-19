@@ -13,7 +13,7 @@ Books in bold are ones I highly recommend.
 
 <br>
 
-<b>2020</b>
+# <b>2020</b>
   
 Grit: The Power of Passion and Perseverance - Angela Duckworth
 
@@ -33,7 +33,7 @@ Joy at Work: Organizing Your Professional Life - Marie Kondo, Scott Sonenshein
 
 <br>
 
-<b>2019</b>
+# <b>2019</b>
   
 The Power of Habit: Why We Do What We Do in Life and Business - Charles Duhigg
 
