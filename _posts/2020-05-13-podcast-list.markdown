@@ -14,15 +14,19 @@ I wish I could say I'm caught up on all of these, but I think that would be bord
 # News & Daily Podcasts
 **Up First**  
 **The Daily**  
-&nbsp;&nbsp;&nbsp;&nbsp;- test   
+&nbsp;&nbsp;&nbsp;&nbsp;- A Bit Of Relief: I Forgive You, New York - Apr 24, 2020   
+&nbsp;&nbsp;&nbsp;&nbsp;- 'I Become a Person of Suspicion' - Apr 10, 2020   
 **The Indicator from Planet Money**  
 **Marketplace**  
 
 # Economics & Business
 **Planet Money**  
+&nbsp;&nbsp;&nbsp;&nbsp;- #946: Fries of the Future - Oct 23, 2019   
+&nbsp;&nbsp;&nbsp;&nbsp;- #926: So, Should We Recycle? - Jul 12, 2019   
 **How I Built This**  
 **Make Me Smart**  
 **Freakonomics Radio**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Should America Be Run By... Trader Joe's? (Ep. 359) - Nov 28, 2018     
 **No Stupid Questions**  
 She Makes Money Moves  
 Women at Work  
@@ -38,8 +42,12 @@ The Future of Everything
 
 # Life
 **Asian Boss Girl**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Episode 30: Pursuit of Yappiness - Dec 20, 2018   
 **Modern Love**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Part I: You May Want To Marry My Husband - Feb 6, 2019   
+&nbsp;&nbsp;&nbsp;&nbsp;- Part II: My Wife Said You May Want to Marry Me - Feb 13, 2019   
 **The Sporkful**  
+&nbsp;&nbsp;&nbsp;&nbsp;- The Great Data-Driven Restaurant Makeover - Feb 24, 2020   
 The Viall Files
 
 # Comedy
