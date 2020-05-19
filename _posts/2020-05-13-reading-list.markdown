@@ -33,7 +33,7 @@ Joy at Work: Organizing Your Professional Life - Marie Kondo, Scott Sonenshein
 
 <br>
 
-# <b>2019</b>
+# 2019
   
 The Power of Habit: Why We Do What We Do in Life and Business - Charles Duhigg
 
