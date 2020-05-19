@@ -7,16 +7,16 @@ img: newyork.jpg
 tags: [Travel, Guide]
 author: # Add name author (optional)
 ---
-You've joined the long list of people who have asked me "what should I do in New York?" and "where should I go eat?
+You've joined the long list of people who have asked me "what should I do in New York?" and "where should I go eat?" Hopefully the list below gives you a place to start doing research. These are my favorite places and activities I think are worth doing. Stop any New Yorker on the street, and they'll disagree with something on this list, but you chose to ask me soooo...
 
 # Food
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |  
+| Name          | Type of Meal           | Price  | Notes                |
+| ------------- |:----------------------:| ------:| --------------------:|
+| col 3 is      | right-aligned          | $1600  | good                 |
+| col 2 is      | centered               |   $12  | ah                   |
+| zebra stripes | are neat               |    $1  | ok                   |  
 
-# Key Touristy Destinations
+# Tourist Destinations
 
 # Nightlife
 
