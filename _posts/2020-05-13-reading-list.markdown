@@ -13,7 +13,7 @@ Books in bold are ones I highly recommend.
 
 <br>
 
-# <b>2020</b>
+# 2020
   
 Grit: The Power of Passion and Perseverance - Angela Duckworth
 
