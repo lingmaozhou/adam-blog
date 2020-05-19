@@ -26,6 +26,10 @@ I wish I could say I'm caught up on all of these, but I think that would be bord
 &nbsp;&nbsp;&nbsp;&nbsp;- #946: Fries of the Future - Oct 23, 2019   
 &nbsp;&nbsp;&nbsp;&nbsp;- #926: So, Should We Recycle? - Jul 12, 2019   
 **How I Built This**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Burt's Bees: Roxanne Quimby - Feb 18, 2019   
+&nbsp;&nbsp;&nbsp;&nbsp;- Ben & Jerry's: Ben Cohen & Jerry Greenfield - Nov 19, 2017   
+&nbsp;&nbsp;&nbsp;&nbsp;- Southwest Airlines: Herb Kelleher - Sept 24, 2017   
+&nbsp;&nbsp;&nbsp;&nbsp;- Warby Parker: Dave Gilboa & Neil Blumenthal - Dec 26, 2016   
 **Make Me Smart**  
 **Freakonomics Radio**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Should America Be Run By... Trader Joe's? (Ep. 359) - Nov 28, 2018     
