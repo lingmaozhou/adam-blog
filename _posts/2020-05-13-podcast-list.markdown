@@ -17,6 +17,8 @@ I wish I could say I'm caught up on all of these, but I think that would be bord
 &nbsp;&nbsp;&nbsp;&nbsp;- A Bit Of Relief: I Forgive You, New York - Apr 24, 2020   
 &nbsp;&nbsp;&nbsp;&nbsp;- 'I Become a Person of Suspicion' - Apr 10, 2020   
 **The Indicator from Planet Money**  
+&nbsp;&nbsp;&nbsp;&nbsp;- We Buy a Junk Bond! - Dec 19, 2019   
+&nbsp;&nbsp;&nbsp;&nbsp;- All WeWork and No Play - Jun 4, 2019   
 **Marketplace**  
 
 # Economics & Business
@@ -56,5 +58,8 @@ The Viall Files
 Big Mood  
 Girls Gotta Eat  
 Conan O'Brien Needs a Friend  
+&nbsp;&nbsp;&nbsp;&nbsp;- Ali Wong - Mar 2, 2020   
+&nbsp;&nbsp;&nbsp;&nbsp;- Mila Kunis - Jul 1, 2019   
+&nbsp;&nbsp;&nbsp;&nbsp;- Michelle Obama - Mar 17, 2019   
 
 
