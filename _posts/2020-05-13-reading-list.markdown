@@ -12,11 +12,11 @@ One of my goals this year was to end the decade-long hiatus I inadvertently took
 Books in bold are ones I highly recommend.
 
 
-<b>2020<b>
+<b>2020</b>
   
 Grit: The Power of Passion and Perseverance - Angela Duckworth
 
-<b>Bad Blood: Secrets and Lies in a Silicon Valley Startup - John Carreyrou<b>
+<b>Bad Blood: Secrets and Lies in a Silicon Valley Startup - John Carreyrou</b>
   
 What Happened - Hillary Rodham Clinton
 
@@ -31,13 +31,13 @@ My Wife Said You May Want to Marry Me: A Memoir - Jason Rosenthal
 Joy at Work: Organizing Your Professional Life - Marie Kondo, Scott Sonenshein
 
 
-<b>2019<b>
+<b>2019</b>
   
 The Power of Habit: Why We Do What We Do in Life and Business - Charles Duhigg
 
 The Subtle Art of Not Giving a Fuck - Mark Manson
 
-<b>Becoming - Michelle Obama<b>
+<b>Becoming - Michelle Obama</b>
   
 The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now - Meg Jay
 
@@ -48,7 +48,7 @@ Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel, Blake 
 Moan: Anonymous Essays - Emma Koenig
 
 
-<b>A Quarantine Journey & Guilty Pleasures<b>
+<b>A Quarantine Journey & Guilty Pleasures</b>
   
 Harry Potter and the Sorcerer's Stone - J.K. Rowling
 
@@ -60,7 +60,7 @@ Harry Potter and the Goblet of Fire - J.K. Rowling
 
 Harry Potter and the Order of the Phoenix - J.K. Rowling
 
-<b>Harry Potter and the Half-Blood Prince - J.K. Rowling<b>
+<b>Harry Potter and the Half-Blood Prince - J.K. Rowling</b>
   
 Harry Potter and the Deathly Hallows - J.K. Rowling
 
@@ -78,7 +78,7 @@ Twilight - Stephenie Meyer
 
 New Moon - Stephenie Meyer
 
-<b>Eclipse - Stephenie Meyer<b>
+<b>Eclipse - Stephenie Meyer</b>
   
 Breaking Dawn - Stephenie Meyer
 
