@@ -7,7 +7,10 @@ img: newyork.jpg
 tags: [Travel, Guide]
 author: # Add name author (optional)
 ---
-You've joined the long list of people who have asked me "what should I do in New York?" and "where should I go eat?" Hopefully the list below gives you a place to start doing research. These are my favorite places and activities I think are worth doing. Stop any New Yorker on the street, and they'll disagree with something on this list, but you chose to ask me soooo...
+You've joined the long list of people who have asked me "what should I do in New York?" and "where should I go eat?" Hopefully the list below gives you a place to start doing research.  <br>
+These are my favorite places and activities I think are worth doing. Stop any New Yorker on the street, and they'll disagree with something on this list, but you chose to ask me!  <br>
+For my map lovers, my Google Maps link is here:  
+
 
 # Food
 | Name          | Type of Meal           | Price  | Notes                |
