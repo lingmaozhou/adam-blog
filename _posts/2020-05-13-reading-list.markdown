@@ -11,6 +11,7 @@ One of my goals this year was to end the decade-long hiatus I inadvertently took
 
 Books in bold are ones I highly recommend.
 
+<br>
 
 <b>2020</b>
   
@@ -30,6 +31,7 @@ My Wife Said You May Want to Marry Me: A Memoir - Jason Rosenthal
 
 Joy at Work: Organizing Your Professional Life - Marie Kondo, Scott Sonenshein
 
+<br>
 
 <b>2019</b>
   
@@ -47,6 +49,7 @@ Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel, Blake 
 
 Moan: Anonymous Essays - Emma Koenig
 
+<br>
 
 <b>A Quarantine Journey & Guilty Pleasures</b>
   
