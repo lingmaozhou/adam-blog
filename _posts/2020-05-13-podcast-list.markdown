@@ -7,7 +7,7 @@ img: podcast.png # Add image post (optional)
 tags: [Podcasts]
 author: Ling Zhou # Add name author (optional)
 ---
-Podcasts are a huge part of my life. I start every morning, rush through every commute, go grocery shopping, brush my teeth, and live my life with a podcast on. <br>
+Podcasts are a huge part of my life. I start every morning, rush through every commute, go grocery shopping, brush my teeth, and live my life with a podcast on. <br><br>
 I wish I could say I'm caught up on all of these, but I think that would be borderline impossible, even for a podcast enthusiast like me. The bolded ones are the ones that I will make every effort to listen the day an episode is released, and some of my favorite episodes are listed under a couple of my favorite shows.
 <br><br>
 
