@@ -13,6 +13,7 @@ Books in bold are ones I highly recommend.
 
 
 <b>2020<b>
+  
 Grit: The Power of Passion and Perseverance - Angela Duckworth
 <b>Bad Blood: Secrets and Lies in a Silicon Valley Startup - John Carreyrou<b>
 What Happened - Hillary Rodham Clinton
