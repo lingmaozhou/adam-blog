@@ -12,11 +12,10 @@ I wish I could say I'm caught up on all of these, but I think that would be bord
 <br><br>
 
 # News & Daily Podcasts
-<b>Up First</b><br>
-<b>The Daily</b><br><ul>
-  <li>test</ul>
-<b>The Indicator from Planet Money</b><br>
-<b>Marketplace</b><br>
+**Up First**
+**The Daily**
+**The Indicator from Planet Money**
+**Marketplace**
 
 # Economics & Business
 <b>Planet Money</b><br>
