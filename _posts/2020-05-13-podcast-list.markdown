@@ -18,34 +18,34 @@ I wish I could say I'm caught up on all of these, but I think that would be bord
 **Marketplace**  
 
 # Economics & Business
-<b>Planet Money</b><br>
-<b>How I Built This</b><br>
-<b>Make Me Smart</b><br>
-<b>Freakonomics Radio</b><br>
-<b>No Stupid Questions</b><br>
-She Makes Money Moves<br>
-Women at Work<br>
-Exchanges at Goldman Sachs<br>
-HBR IdeaCast<br>
-The $100 MBA Show<br>
+**Planet Money**  
+**How I Built This**  
+**Make Me Smart**  
+**Freakonomics Radio**  
+**No Stupid Questions**  
+She Makes Money Moves  
+Women at Work  
+Exchanges at Goldman Sachs  
+HBR IdeaCast  
+The $100 MBA Show  
 
 # Science & Technology
-<b>Marketplace Tech</b><br>
-<b>Hidden Brain</b><br>
-Oglogies<br>
-The Future of Everything<br>
+**Marketplace Tech**  
+**Hidden Brain**  
+Oglogies  
+The Future of Everything  
 
 # Life
-<b>Asian Boss Girl</b><br>
-<b>Modern Love</b><br>
-<b>The Sporkful</b><br>
+**Asian Boss Girl**  
+**Modern Love**  
+**The Sporkful**  
 The Viall Files
 
 # Comedy
-<b>Office Ladies</b><br>
-<b>The Trypod</b><br>
-Big Mood<br>
-Girls Gotta Eat<br>
-Conan O'Brien Needs a Friend<br>
+**Office Ladies**  
+**The Trypod**  
+Big Mood  
+Girls Gotta Eat  
+Conan O'Brien Needs a Friend  
 
 
