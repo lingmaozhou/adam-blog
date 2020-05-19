@@ -7,4 +7,8 @@ img: books.jpg # Add image post (optional)
 tags: [Reading]
 author: Ling Zhou # Add name author (optional)
 ---
-This is my reading list!
+One of my goals this year was to end the decade-long hiatus I inadvertently took from one of my favorite hobbies - reading. I hope that this list inspires you to curl up in a cozy chair with a new book.
+
+Books in bold are ones I highly recommend.
+
+<b>2020<b>
