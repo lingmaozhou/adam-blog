@@ -29,7 +29,11 @@ Dear America: Notes of an Undocumented Citizen - Jose Antonio Vargas
 
 My Wife Said You May Want to Marry Me: A Memoir - Jason Rosenthal
 
-Joy at Work: Organizing Your Professional Life - Marie Kondo, Scott Sonenshein
+Joy at Work: Organizing Your Professional Life - Marie Kondo, Scott Sonenshein  
+
+Paper Towns - John Green  
+
+An Abundance of Katherines - John Green  
 
 <br>
 
