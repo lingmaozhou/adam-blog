@@ -15,7 +15,7 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 
 # Food
 | Name          | Type of Meal           | Price  | Notes                |
-| ------------- |:----------------------:| ------:| --------------------:|
+| ------------- |------------------------|--------|----------------------|
 | col 3 is      | right-aligned          | $1600  | good                 |
 | col 2 is      | centered               |   $12  | ah                   |
 | zebra stripes | are neat               |    $1  | ok                   |  
