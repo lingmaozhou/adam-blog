@@ -126,6 +126,39 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 
 # Nightlife  
 
+| Name                    | Description | Neighborhood                     |
+|:-----------------------:|:-----------:|:--------------------------------:|
+| The Central Bar         | Casual Bar  | East Village                     |
+| The Three Monkeys       | Casual Bar  | Midtown                          |
+| Sing Sing               | Karaoke     | East Village - Saint Marks Place |
+| Radio Star Karaoke      | Karaoke     | Koreatown                        |
+| MK Karaoke              | Karaoke     | Koreatown                        |
+| Mission NYC             | Nightlife   | Chelsea                          |
+| Marquee New York        | Nightlife   | Chelsea                          |
+| Fat Buddha              | Nightlife   | East Village                     |
+| Solas                   | Nightlife   | East Village - Saint Marks Place |
+| LPR                     | Nightlife   | Greenwich Village                |
+| Krush                   | Nightlife   | Koreatown                        |
+| IchiUmi                 | Nightlife   | Koreatown                        |
+| The Delancey            | Nightlife   | Lower East Side                  |
+| Hair of the Dog         | Nightlife   | Lower East Side                  |
+| Los Feliz               | Nightlife   | Lower East Side                  |
+| La Caverna              | Nightlife   | Lower East Side                  |
+| et al.                  | Nightlife   | Lower East Side                  |
+| Mr. Purple              | Nightlife   | Lower East Side                  |
+| 205 Club                | Nightlife   | Lower East Side                  |
+| Local 138               | Nightlife   | Lower East Side                  |
+| Troy                    | Nightlife   | Meatpacking District             |
+| TAO Downtown Restaurant | Nightlife   | Meatpacking District             |
+| Up&Down                 | Nightlife   | Meatpacking District             |
+| PHD Rooftop Lounge      | Nightlife   | Meatpacking District             |
+| Gitano Jungle Room      | Nightlife   | SoHo                             |
+| Raines Law Room Chelsea | Upscale Bar | Chelsea                          |
+| Amor y Amargo           | Upscale Bar | East Village                     |
+| Refinery Rooftop        | Upscale Bar | Midtown                          |
+| High Bar                | Upscale Bar | Midtown                          |
+| Dear Irving Gramercy    | Upscale Bar | Union Square                     |
+
 
 Insert photos into your posts like this
 ![Photo Caption]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
