@@ -108,17 +108,17 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 | Gotham                               | New American      | Fancy    | $$$   | West Village      | One Michelin Star; reservation required significantly in advance                                                    |
 | Carbone                              | Italian           | Fancy    | $$$   | Greenwich Village |                                                                                                                     |
 | Eleven Madison Park                  | American          | Fancy    |\$\$\$\$| Flatiron          | Three Michelin Stars; reservation required significantly in advance                                                 |
-| Ocean Prime                          | American          | Fancy    | $$$$  | Midtown           |                                                                                                                     |
-| Per Se                               | French            | Fancy    | $$$$  | Columbus Circle   | Three Michelin Stars; reservation required significantly in advance                                                 |
-| Le Bernardin                         | French            | Fancy    | $$$$  | Midtown           | Three Michelin Stars; my favorite 2+ Michelin Star restaurant in NYC; reservation required significantly in advance |
-| Daniel                               | French            | Fancy    | $$$$  | Upper East Side   | Two Michelin Stars; reservation required significantly in advance                                                   |
-| Marea                                | Italian           | Fancy    | $$$$  | Columbus Circle   | One Michelin Star; recommend squid ink pasta                                                                        |
-| Ai Fiori                             | Italian           | Fancy    | $$$$  | Midtown           | One Michelin Star                                                                                                   |
-| Sushi Nakazawa                       | Japanese - Sushi  | Fancy    | $$$$  | Greenwich Village | Two Michelin Stars; reservation required significantly in advance                                                   |
-| Cote                                 | Korean            | Fancy    | $$$$  | Flatiron          | One Michelin Star; reservation required significantly in advance; Korean BBQ                                        |
-| The Modern                           | New American      | Fancy    | $$$$  | Midtown           | Two Michelin Stars; reservation required significantly in advance; attached to MoMA                                 |
-| atera                                | New American      | Fancy    | $$$$  | Tribeca           | Two Michelin Stars; reservation required significantly in advance                                                   |
-| Peter Luger Steakhouse               | Steak             | Fancy    | $$$$  | Williamsburg      | One Michelin Star; reservation required significantly in advance; cash only                                         |
+| Ocean Prime                          | American          | Fancy    |\$\$\$\$| Midtown           |                                                                                                                     |
+| Per Se                               | French            | Fancy    |\$\$\$\$| Columbus Circle   | Three Michelin Stars; reservation required significantly in advance                                                 |
+| Le Bernardin                         | French            | Fancy    |\$\$\$\$| Midtown           | Three Michelin Stars; my favorite 2+ Michelin Star restaurant in NYC; reservation required significantly in advance |
+| Daniel                               | French            | Fancy    |\$\$\$\$| Upper East Side   | Two Michelin Stars; reservation required significantly in advance                                                   |
+| Marea                                | Italian           | Fancy    |\$\$\$\$| Columbus Circle   | One Michelin Star; recommend squid ink pasta                                                                        |
+| Ai Fiori                             | Italian           | Fancy    |\$\$\$\$| Midtown           | One Michelin Star                                                                                                   |
+| Sushi Nakazawa                       | Japanese - Sushi  | Fancy    |\$\$\$\$| Greenwich Village | Two Michelin Stars; reservation required significantly in advance                                                   |
+| Cote                                 | Korean            | Fancy    |\$\$\$\$| Flatiron          | One Michelin Star; reservation required significantly in advance; Korean BBQ                                        |
+| The Modern                           | New American      | Fancy    |\$\$\$\$| Midtown           | Two Michelin Stars; reservation required significantly in advance; attached to MoMA                                 |
+| atera                                | New American      | Fancy    |\$\$\$\$| Tribeca           | Two Michelin Stars; reservation required significantly in advance                                                   |
+| Peter Luger Steakhouse               | Steak             | Fancy    |\$\$\$\$| Williamsburg      | One Michelin Star; reservation required significantly in advance; cash only                                         |
 
 
 # Tourist Destinations  
