@@ -16,7 +16,7 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 # Food
 
 | Name                                 | Cuisine           | Event    | Price | Location          | Notes                                                                                                               |
-|:------------------------------------:|:-----------------:|:--------:|:-----:|:-----------------:|:-------------------------------------------------------------------------------------------------------------------:|
+|-------------------------------------:|------------------:|---------:|------:|------------------:|--------------------------------------------------------------------------------------------------------------------:|
 | Tiger Sugar                          | Boba              | Beverage | $     | Chinatown         |                                                                                                                     |
 | Le Tea                               | Boba              | Beverage | $     | Flatiron          | Super aesthetic; gold metal straws                                                                                  |
 | Boba Guys                            | Boba              | Beverage | $     | Multiple          |                                                                                                                     |
@@ -41,7 +41,7 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 | Mei Yu Spring Restaurant             | Chinese - Dim Sum | Casual   | $     | Chinatown         | Cash only                                                                                                           |
 | Jing Fong                            | Chinese - Dim Sum | Casual   | $     | Chinatown         |                                                                                                                     |
 | Tim Ho Wan                           | Chinese - Dim Sum | Casual   | $     | East Village      | "World's most inexpensive Michelin Star"                                                                            |
-| The Halal Guys                       | Halal             | Casual   | $     | Multiple          | Original location is the street cart on W 53rd & 6th Ave                                                             |
+| The Halal Guys                       | Halal             | Casual   | $     | Multiple          | Original location is the street cart on West 53rd & 6th Ave                                                         |
 | The Kati Roll Company                | Indian            | Casual   | $     | Multiple          |                                                                                                                     |
 | Tatsu Ramen                          | Japanese - Ramen  | Casual   | $     | East Village      |                                                                                                                     |
 | Totto                                | Japanese - Ramen  | Casual   | $     | Midtown           | Cash only                                                                                                           |
