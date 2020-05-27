@@ -204,7 +204,6 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 ![]({{site.baseurl}}/assets/img/ny4.jpg)  
 ![]({{site.baseurl}}/assets/img/ny5.jpg)  
 ![]({{site.baseurl}}/assets/img/ny6.jpg)  
-![]({{site.baseurl}}/assets/img/ny7.jpg)  
 ![]({{site.baseurl}}/assets/img/ny8.jpg)  
 ![]({{site.baseurl}}/assets/img/ny9.jpg)  
 ![]({{site.baseurl}}/assets/img/ny10.jpg)  
