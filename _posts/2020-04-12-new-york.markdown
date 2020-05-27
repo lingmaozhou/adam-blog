@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New York City
-date: 
+date: 2020-05-13 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: newyork.jpg
 tags: [Travel, Guide]
@@ -122,6 +122,42 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 
 
 # Tourist Destinations  
+
+| Name                            | Description | Neighborhood           | Notes                                                                                   |
+|---------------------------------|-------------|------------------------|-----------------------------------------------------------------------------------------|
+| Bronx Zoo                       | Activity    | Bronx                  | Adults $40                                                                              |
+| Dumbo                           | Activity    | Brooklyn               | Trendy cobblestone neighborhood in Brooklyn                                             |
+| Brooklyn Botanic Garden         | Activity    | Brooklyn               | Adults $18; free on Fridays from 8am-12pm                                               |
+| Brooklyn Bridge*                | Landmark    | Brooklyn               | First bridge to connect Brooklyn to Manhattan                                           |
+| The Metropolitan Museum of Art* | Museum      | Central Park           | Adults $25; students $12; NY residents donation based                                   |
+| Solomon R. Guggenheim Museum    | Museum      | Central Park           | Adults $25; students $18; donation based on Saturdays from 5-8                          |
+| Central Park*                   | Park        | Central Park           | Spend a day getting lost here                                                           |
+| Hudson Yards                    | Acivity     | Chelsea                | Shopping                                                                                |
+| Chelsea Market                  | Activity    | Chelsea                | Shopping & food hall                                                                    |
+| Vessel                          | Landmark    | Chelsea                | Tickets are free if you book time slot in advance                                       |
+| The High Line*                  | Park        | Chelsea                | Elevated grerenway connecting Chelsea Market to Hudson Yards                            |
+| Union Square                    | Park        | Chelsea / East Village | Farmer's market; famous holiday market in the winter                                    |
+| Wall Street                     | Landmark    | FiDi                   | Charging bull statue                                                                    |
+| New York Stock Exchange         | Landmark    | FiDi                   |                                                                                         |
+| 9/11 Memorial & Museum*         | Museum      | FiDi                   | Memorial is free; for museum adults $24; students $18                                   |
+| Battery Park                    | Park        | FiDi                   | Statue of Liberty views                                                                 |
+| Washington Square Park          | Park        | Greenwich Village      | Famous arch                                                                             |
+| Statue of Liberty Monument*     | Landmark    | Island                 | Adults $19.25; recommend booking crown reserve ticket in advance; be wary of scams      |
+| Ellis Island                    | Landmark    | Island                 | Included with Statue of Liberty ticket                                                  |
+| Fifth Avenue shopping*          | Activity    | Midtown                | Luxury shopping; famous in pop culture                                                  |
+| Broadway                        | Activity    | Midtown                |                                                                                         |
+| Rockefeller Center              | Landmark    | Midtown                | Top of the Rock Observation Deck; adults $38; famous for annual Christmas tree lighting |
+| Times Square                    | Landmark    | Midtown                | Only go once... if you must                                                             |
+| Grand Central Terminal          | Landmark    | Midtown                |                                                                                         |
+| St.. Patrick's Cathedral        | Landmark    | Midtown                |                                                                                         |
+| Empire State Building*          | Landmark    | Midtown                | Adults $72; different ticket packages                                                   |
+| New York Public Library*        | Landmark    | Midtown                | Stephen A. Schwarzman Building                                                          |
+| Macy's Herald Square            | Landmark    | Midtown                | The world's largest store; Macy's flagship; end of the Thanksgiving Day Parade          |
+| The Museum of Modern Art*       | Museum      | Midtown                | Adults $25; students $14; free on Fridays from 5:30-9                                   |
+| Bryant Park                     | Park        | Midtown                | Ice skating rink in the winter                                                          |
+| Strand Bookstore                | Activity    | NoHo                   |                                                                                         |
+| SoHo shopping                   | Activity    | SoHo                   | Shopping                                                                                |
+| Columbia University             | University  | Upper West Side        |                                                                                         |
 
 
 # Nightlife  
