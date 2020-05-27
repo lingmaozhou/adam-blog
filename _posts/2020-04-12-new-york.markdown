@@ -16,7 +16,7 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 # Food
 
 | Name                                 | Cuisine           | Event    | Price | Location          | Notes                                                                                                               |
-|-------------------------------------:|------------------:|---------:|------:|------------------:|--------------------------------------------------------------------------------------------------------------------:|
+|--------------------------------------|-------------------|----------|-------|-------------------|---------------------------------------------------------------------------------------------------------------------|
 | Tiger Sugar                          | Boba              | Beverage | $     | Chinatown         |                                                                                                                     |
 | Le Tea                               | Boba              | Beverage | $     | Flatiron          | Super aesthetic; gold metal straws                                                                                  |
 | Boba Guys                            | Boba              | Beverage | $     | Multiple          |                                                                                                                     |
