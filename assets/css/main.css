@@ -1760,4 +1760,7 @@ pre code {
   .author-box .author-desc p {
     margin: 0 0 15px;
   }
+  .table-wrapper {
+  overflow-x: scroll;
+  }
 }
