@@ -126,6 +126,8 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 
 # Tourist Destinations  
 
+<div class="table-wrapper" markdown="block">
+
 | Name                            | Description | Neighborhood           | Notes                                                                                   |
 |:-------------------------------:|:-----------:|:----------------------:|:---------------------------------------------------------------------------------------:|
 | Bronx Zoo                       | Activity    | Bronx                  | Adults $40                                                                              |
@@ -161,7 +163,7 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 | Strand Bookstore                | Activity    | NoHo                   |                                                                                         |
 | SoHo shopping                   | Activity    | SoHo                   | Shopping                                                                                |
 | Columbia University             | University  | Upper West Side        |                                                                                         |
-
+</div>
 
 # Nightlife  
 
