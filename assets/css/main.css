@@ -1762,5 +1762,6 @@ pre code {
   }
   .table-wrapper {
   overflow-x: scroll;
+    width: auto;
   }
 }
