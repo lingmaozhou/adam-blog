@@ -1765,6 +1765,7 @@ pre code {
     width: auto;
   }
   table{
+    width: auto;
     border-collapse: collapse;
     border-spacing: 0;
     border:1px solid #000000;
