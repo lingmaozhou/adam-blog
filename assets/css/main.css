@@ -1765,7 +1765,7 @@ pre code {
     width: auto;
   }
   table{
-    border-collapse: collapse;
+    border-collapse: separate;
     border-spacing: 0;
     border:2px solid #000000;
   }
