@@ -15,6 +15,8 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 
 # Food
 
+<div class="table-wrapper" markdown="block">
+
 | Name                                 | Cuisine           | Event    | Price | Location          | Notes                                                                                                               |
 |:------------------------------------:|:-----------------:|:--------:|:-----:|:-----------------:|:-------------------------------------------------------------------------------------------------------------------:|
 | Tiger Sugar                          | Boba              | Beverage | $     | Chinatown         |                                                                                                                     |
@@ -120,6 +122,7 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 | atera                                | New American      | Fancy    |\$\$\$\$| Tribeca           | Two Michelin Stars; reservation required significantly in advance                                                   |
 | Peter Luger Steakhouse               | Steak             | Fancy    |\$\$\$\$| Williamsburg      | One Michelin Star; reservation required significantly in advance; cash only                                         |
 
+</div>
 
 # Tourist Destinations  
 
