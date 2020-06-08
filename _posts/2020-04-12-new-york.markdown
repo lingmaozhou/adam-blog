@@ -168,6 +168,8 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 
 # Nightlife  
 
+<div class="table-wrapper" markdown="block">
+
 | Name                    | Description | Neighborhood                     |
 |:-----------------------:|:-----------:|:--------------------------------:|
 | The Central Bar         | Casual Bar  | East Village                     |
@@ -201,6 +203,7 @@ For my spreadsheet lovers, please explore my [Google Sheets](https://docs.google
 | High Bar                | Upscale Bar | Midtown                          |
 | Dear Irving Gramercy    | Upscale Bar | Union Square                     |
 
+</div>
 
 ![]({{site.baseurl}}/assets/img/ny12.jpg)  
 ![]({{site.baseurl}}/assets/img/ny13.jpg)  
