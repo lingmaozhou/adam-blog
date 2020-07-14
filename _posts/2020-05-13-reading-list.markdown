@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Reading List
-date:   2020-05-13 14:47:20 +0300
+date:   2020-07-13 14:47:20 +0300
 description: Personal reading list # Add post description (optional)
 img: book.png # Add image post (optional)
 tags: [Reading]
@@ -34,6 +34,12 @@ Joy at Work: Organizing Your Professional Life - Marie Kondo, Scott Sonenshein
 Paper Towns - John Green  
 
 An Abundance of Katherines - John Green  
+
+Turtles All the Way Down - John Green
+
+<b>Born a Crime - Trevor Noah</b>
+
+The Moment of Lift - Melissa Gates
 
 <br>
 
