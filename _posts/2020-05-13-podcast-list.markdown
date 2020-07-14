@@ -36,7 +36,7 @@ I wish I could say I'm caught up on all of these, but I think that would be bord
 &nbsp;&nbsp;&nbsp;&nbsp;- Should America Be Run By... Trader Joe's? (Ep. 359) - Nov 28, 2018     
 **No Stupid Questions**  
 Hidden Brain
-&nbsp;&nbsp;&nbsp;&nbsp;- Zipcode Destiny - Dec 9, 2019   
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- Zipcode Destiny - Dec 9, 2019   
 She Makes Money Moves  
 Women at Work  
 HBR IdeaCast  
