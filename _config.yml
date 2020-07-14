@@ -11,7 +11,9 @@ author: Ling Zhou
 author-pic: ling_headshot.JPG
 about-author: Hi! I'm Ling. <br/> <br/> I'm a strategy consultant and a 2019 Wellesley grad based in New York City. <br/> <br/> Because of the pandemic, I am currently in Atlanta enjoying the Southern hospitality and horseback riding. You can find me working from home, listening to podcasts, or going on socially distanced runs and hikes. <br/> <br/> This place is for me to organize my thoughts and share everything from my reading list to restaurant recommendations. Please feel free to message me to get in touch! <br/> <br/>
 
-<!-- I grew up in Atlanta, but I haven't complained too much about giving up my horses and sweet tea for the city that never sleeps. When I'm not traveling for work, you can find me listening to podcasts in my apartment, running along the East River, or trying new foods all around NYC. -->
+{% comment %}
+I grew up in Atlanta, but I haven't complained too much about giving up my horses and sweet tea for the city that never sleeps. When I'm not traveling for work, you can find me listening to podcasts in my apartment, running along the East River, or trying new foods all around NYC.
+{% endcomment %}
 
 # Contact links
 email: lingzhou14@gmail.com
