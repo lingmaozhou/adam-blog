@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Podcast List
-date:   2020-05-13 15:19:20 +0300
+date:   2020-07-13 15:19:20 +0300
 description: Personal podcast list # Add post description (optional)
 img: podcast.png # Add image post (optional)
 tags: [Podcasts]
@@ -26,6 +26,7 @@ I wish I could say I'm caught up on all of these, but I think that would be bord
 &nbsp;&nbsp;&nbsp;&nbsp;- #946: Fries of the Future - Oct 23, 2019   
 &nbsp;&nbsp;&nbsp;&nbsp;- #926: So, Should We Recycle? - Jul 12, 2019   
 **How I Built This**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Tatcha: Vicky Tsai - Jul 13, 2020   
 &nbsp;&nbsp;&nbsp;&nbsp;- Burt's Bees: Roxanne Quimby - Feb 18, 2019   
 &nbsp;&nbsp;&nbsp;&nbsp;- Ben & Jerry's: Ben Cohen & Jerry Greenfield - Nov 19, 2017   
 &nbsp;&nbsp;&nbsp;&nbsp;- Southwest Airlines: Herb Kelleher - Sept 24, 2017   
@@ -34,9 +35,10 @@ I wish I could say I'm caught up on all of these, but I think that would be bord
 **Freakonomics Radio**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Should America Be Run By... Trader Joe's? (Ep. 359) - Nov 28, 2018     
 **No Stupid Questions**  
+Hidden Brain
+&nbsp;&nbsp;&nbsp;&nbsp;- Zipcode Destiny - Dec 9, 2019   
 She Makes Money Moves  
 Women at Work  
-Exchanges at Goldman Sachs  
 HBR IdeaCast  
 The $100 MBA Show  
 
@@ -44,7 +46,6 @@ The $100 MBA Show
 **Marketplace Tech**  
 **Hidden Brain**  
 Oglogies  
-The Future of Everything  
 
 # Life
 **Asian Boss Girl**  
@@ -59,6 +60,7 @@ The Viall Files
 # Comedy
 **Office Ladies**  
 **The Trypod**  
+You Can Sit With Us
 Big Mood  
 Girls Gotta Eat  
 Conan O'Brien Needs a Friend  
