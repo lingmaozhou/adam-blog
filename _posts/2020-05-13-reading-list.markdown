@@ -7,9 +7,29 @@ img: book.png # Add image post (optional)
 tags: [Reading]
 author: Ling Zhou # Add name author (optional)
 ---
-One of my goals this year was to end the decade-long hiatus I inadvertently took from one of my favorite hobbies - reading. I hope that this list inspires you to curl up in a cozy chair with a new book.
+In 2020, I decided to finally put an end to the decade-long hiatus I inadvertently took from one of my favorite hobbies - reading. I hope that this list inspires you to curl up in a cozy chair with a new book.
 
 Books in bold are ones I highly recommend.
+
+<br>
+
+# 2022
+
+<b>Crying in H Mart - Michell Zauner<b>
+
+Where the Crawdads Sing - Delia Owens
+
+<br>
+
+# 2021
+
+Moneyball - Michael Lewis
+
+A Promised Land - Barack Obama
+
+A Court of Thorns and Roses - Sarah J. Mass
+
+Loveboat, Taipei - Abigail Hing Wen
 
 <br>
 
