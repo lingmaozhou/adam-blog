@@ -26,7 +26,7 @@ I wish I could say I'm caught up on all of these, but I think that would be bord
 &nbsp;&nbsp;&nbsp;&nbsp;- A SWIFT Getaway - Feb 9. 2022   
 &nbsp;&nbsp;&nbsp;&nbsp;- We Buy A Lot Of Christmas Trees - Dec 11, 2020   
 &nbsp;&nbsp;&nbsp;&nbsp;- Fries of the Future - Oct 23, 2019   
-&nbsp;&nbsp;&nbsp;&nbsp;- So, Should We Recycle? - Jul 12, 2019   
+&nbsp;&nbsp;&nbsp;&nbsp;- So, Should We Recycle? - Jul 12, 2019
 
 **How I Built This**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Tatcha: Vicky Tsai - Jul 13, 2020   
