@@ -15,7 +15,7 @@ Books in bold are ones I highly recommend.
 
 # 2022
 
-<b>Crying in H Mart - Michell Zauner<b>
+<b>Crying in H Mart - Michell Zauner</b>
 
 Where the Crawdads Sing - Delia Owens
 
